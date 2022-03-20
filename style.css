@@ -13,7 +13,7 @@ html {
   /* font-size: 10px; */
   /* 10px / 16px = 0.625 = 62.5% */
   /* Percentage of user's browser font-size setting */
-  font-size: 62.5%; //1rem = 10px
+  font-size: 62.5%;
 
   /* no inherited but with * we force elements to inherit this property */
   box-sizing: border-box;
